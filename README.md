@@ -1,4 +1,4 @@
-E-Commerce Project using Drupal 10
+# E-Commerce Project using Drupal 10
 This repository contains an E-Commerce project built with Drupal 10. The project aims to create a powerful online shopping platform by leveraging Drupal's CMS and e-commerce capabilities.
 
 Features
