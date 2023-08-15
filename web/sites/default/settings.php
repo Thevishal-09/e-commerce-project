@@ -863,3 +863,7 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 
 $settings['config_sync_directory'] = '../config/sync';
 $settings['file_private_path'] = '../private';
+
+$settings['reverse_proxy'] = TRUE;
+$settings['reverse_proxy_addresses'] = ['127.0.0.1', '::1','devlearn.local'];
+
