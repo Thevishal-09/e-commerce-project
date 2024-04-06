@@ -1,0 +1,5 @@
+name: 'fordev'
+type: module
+description: 'only for testing perpuse'
+package: Custom
+core_version_requirement: ^10

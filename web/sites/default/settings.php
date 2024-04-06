@@ -866,4 +866,5 @@ $settings['file_private_path'] = '../private';
 
 $settings['reverse_proxy'] = TRUE;
 $settings['reverse_proxy_addresses'] = ['127.0.0.1', '::1','devlearn.local'];
+ $config['system.logging']['error_level'] = 'verbose';
 
