@@ -22,7 +22,11 @@
         "drupal/commerce_stripe": "1.0",
         "drupal/core-composer-scaffold": "^10.1",
         "drupal/core-project-message": "^10.1",
-        "drupal/core-recommended": "^10.1"
+        "drupal/core-recommended": "^10.1",
+        "drupal/devel": "5.1",
+        "drupal/module_filter": "4.1",
+        "drupal/paragraphs": "1.17",
+        "drupal/webform": "6.2"
     },
     "conflict": {
         "drupal/drupal": "*"

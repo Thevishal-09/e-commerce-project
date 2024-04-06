@@ -1,0 +1,7 @@
+fordev.example:
+  path: '/fordev/sql'
+  defaults:
+    _title: 'SQL'
+    _controller: '\Drupal\fordev\Controller\FordevController'
+  requirements:
+    _permission: 'access content'
